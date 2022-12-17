@@ -16,7 +16,7 @@ public class Example5_for {
 
 
         { int nums = random.nextInt(1000);
-            if (nums % 5 == 2 || i % 3 == 1) {
+            if (nums % 5 == 2 || nums % 3 == 1) {
                 System.out.println(nums + " ");
                 sum = sum + nums;
                 Numbers--;
