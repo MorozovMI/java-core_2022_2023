@@ -12,6 +12,6 @@ public class Main {
         int result = n * numberOfM;
 
         System.out.println(result);
-
     }
+
 }
