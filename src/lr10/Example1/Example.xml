@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<library>
+            
+  
+      
+  
+    
+  <book>
+                        
+    
+        
+    <title>Мастер и Маргарита</title>
+                        
+    
+        
+    <author>Михаил Булгаков</author>
+                        
+    
+        
+    <year>1967</year>
+                    
+  
+    
+  </book>
+        
+  
+    
+  <book>
+                
+        
+    <title>Анна Каренина</title>
+                
+        
+    <author>Л.Н. Толстой</author>
+                
+        
+    <year>1873</year>
+              
+    
+  </book>
+      
+
+  <book>
+    <title>Бесы</title>
+    <author>Федор Достоевский</author>
+    <year>1848</year>
+  </book>
+</library>
