@@ -25,6 +25,7 @@ public class Main {
                 System.out.print(arr[j][i]+" ");
 
             }
+
             System.out.println();
         }
     }

@@ -25,5 +25,6 @@ import java.util.Scanner;
             System.out.println(p1 + " " + p2);
         }
 
+
     }
 

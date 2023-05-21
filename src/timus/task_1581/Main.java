@@ -23,6 +23,7 @@ public class Main {
                 } else count ++;
             }
             System.out.print(count + " " + ints[ints.length - 1] + " ");
+
         }
     }
 }

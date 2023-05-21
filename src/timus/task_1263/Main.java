@@ -14,6 +14,7 @@ public class Main {
         for (int value : numberOfPartiesArr) {
             double result = 100 / ((double) numberOfPeople / value);
             System.out.printf("%.2f%%%n", result);
+
         }
     }
 }

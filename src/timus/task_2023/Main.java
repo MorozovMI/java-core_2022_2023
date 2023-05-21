@@ -17,6 +17,7 @@ public class Main {
         System.out.println(steps);
     }
 
+
     private static int getBox(String s) {
         if(s.startsWith("A") || s.startsWith("P") || s.startsWith("O") || s.startsWith("R"))
             return 0;

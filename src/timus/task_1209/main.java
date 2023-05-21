@@ -18,6 +18,7 @@ public class main {
             } else {
                 System.out.println("0 ");
 
+
             }
         }
     }

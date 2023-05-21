@@ -29,6 +29,7 @@ public class Main {
                 res += a[i] * a[j];
             }
         }
+
         return res;
     }
 }

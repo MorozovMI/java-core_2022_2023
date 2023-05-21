@@ -11,6 +11,7 @@ public class Main {
             System.out.print("grimy\n");
         } else {
             System.out.print("black\n");
+
         }
     }
 }

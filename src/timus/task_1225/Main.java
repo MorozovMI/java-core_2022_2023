@@ -19,5 +19,6 @@ public class Main {
         System.out.println(f[N]);
 
         scanner.close();
+
     }
 }
